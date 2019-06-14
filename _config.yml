@@ -21,10 +21,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
+title: 'tee-sha mint-nitch'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://pbs.twimg.com/profile_images/1074762026415677443/u88ZGXCM_400x400.jpg"
 
 # Pagination
 paginate: 5
